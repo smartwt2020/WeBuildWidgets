@@ -1,0 +1,27 @@
+{
+  "id": "chartTest-ASDFGHJKKL",
+  "class": "chartTest-ASDFGHJKKL",
+  "name": "",
+  "discription": "",
+  "component": "wb-widget-chart-test",
+  "parent": "",
+  "type": "content",
+  "show": "",
+  "datasocket": "",
+  "data": [{
+    "data": [{
+      "x": 20,
+      "y": 54
+    }, {
+      "x": 30,
+      "y": 66
+    }]
+  }],
+  "style": {
+    
+  },
+  "events": {},
+  "sudoStyle": {},
+  "addOnStyle": {},
+  "staticStyle": ""
+}
